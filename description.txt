@@ -1,0 +1,17 @@
+1- Identificar requisitos funcionais
+(tabela para identificar os requisitos)
+1- RF - 001 - Preparar massa - Bater todos os ingredientes bla,bla,bla
+2-
+...
+
+--------------------------------------------
+
+Requisitos de infraestrutura:
+
+SGBD
+	Nome: Mysql server 
+	Versao: 8.0.45
+
+Linguagem de programação:
+	Nome: JavaScript e Node.js
+	Versao: 25.4.0
